@@ -15,15 +15,15 @@ Included in the Azmind styles is seven files. You will only need three of them. 
  - error-username-password.html
  - logout.html
 
-### Username/Password or Token
- - login-username-password-token.html
- - error-username-password-token.html
+### Username/Password or Voucher
+ - login-username-password-voucher.html
+ - error-username-password-voucher.html
  - logout.html
 
 
-### Token
- - login-token.html
- - error-token.html
+### Voucher
+ - login-voucher.html
+ - error-voucher.html
  - logout.html 
 
 ## Installing
